@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  "Personal blog dedicated to Data Science Projects."
 baseurl: "/my386blog" # keep this the same or change it to the name of the repository 
 url: "https://noryarroyo.github.io" #  change this to "https://<your-github-username>.github.io"
-image: /assets/images/image.jpg
+image: /assets/images/image5.jpg
 author: Nory Arroyo Cruz 
 copyright: NAC # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
