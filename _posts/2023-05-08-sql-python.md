@@ -57,7 +57,9 @@ There are many things I could choose to do with this portion of the tutorial, bu
 Looking at the graph, we can tell that the most profitable movie of all time is Avatar and that its profit is in the billions. Now, looking at the rest of the top 5, we can notice that all these movies are part of franchises. This is an example of the insights we can draw with simple code and graphs. We shall proceed to look at a boxplot of the runtime. 
 
 Code: 
+
 ![Figure](https://github.com/noryarroyo/my386blog/raw/main/assets/images/code_graph.png)
+
 
 Graph: 
 ![Figure](https://github.com/noryarroyo/my386blog/raw/main/assets/images/boxplot_graph.png)
