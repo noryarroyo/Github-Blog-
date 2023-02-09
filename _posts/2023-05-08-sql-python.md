@@ -62,6 +62,8 @@ Code:
 
 
 Graph: 
+
+
 ![Figure](https://github.com/noryarroyo/my386blog/raw/main/assets/images/boxplot_graph.png)
 
 From our observations from the boxplot we can see that the average movie runtime is around 110 (1 hour and 40 minutes) and 75% of the movies are less than 130 
