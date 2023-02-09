@@ -32,7 +32,11 @@ There are many ways that you can connect SQL with Python. In this tutorial, we w
 
 <img src="https://raw.githubusercontent.com/noryarroyo/my386blog/main/assets/images/engine.jpg" alt="" style="width:400px;"/>
 
-Where you should place your own username and password and your database of choice. I have a database called movies in mysql and that's what I'll use for the next few steps. 
+ You should place your username, password, database of choice, I have a database called movies in mySQL database, which I'll use for the next few steps. Your engine should now be able to pull information from SQL. 
+
+ 
+
+
 
 
 
