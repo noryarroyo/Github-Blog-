@@ -24,17 +24,41 @@ If needed:
 
 ### 1. Set up a connector between SQL and Python 
 
-First, you will need the following packages: pandas, numpy, seaborn, matplotlib.pyplot and sqlalchemy. Your cell in Jupyter Notebook should look like the next (you can pick your aliases). 
+First, you will need the following packages: pandas, numpy, seaborn, matplotlib.pyplot and sqlalchemy. If you don't have these packages here's how to [install python packages.](https://packaging.python.org/en/latest/tutorials/installing-packages/)
+
+Your cell in Jupyter Notebook should look like the next (you can pick your aliases). 
 
 ![Figure](https://github.com/noryarroyo/my386blog/raw/main/assets/images/packages.png)
 
-There are many ways that you can connect SQL with Python. In this tutorial, we will be using SQLAlchemy and will create an engine that serves to connect to a local SQL database and pull the information to Python.  
-
+There are many ways that you can connect SQL with Python. In this tutorial, we will be using SQLAlchemy and will create an engine that serves to connect to a local SQL database and pull the information to Python. 
 ![Figure](https://github.com/noryarroyo/my386blog/raw/main/assets/images/engine.png)
 
- You should place your username, password, database of choice, I have a database called movies in mySQL database, which I'll use for the next few steps. Your engine should now be able to pull information from SQL. 
+ You should place your username, password, database of choice, I have a database called movies in mySQL database, which I'll use for the next few steps. Your engine should now be able to pull information from SQL. If you wish to [create your own database](https://learn.microsoft.com/en-us/sql/relational-databases/databases/create-a-database?view=sql-server-ver16) or [add sample data.](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms) 
 
- 
+
+### 2. Create a dataframe 
+
+To create a dataframe we need to extract the information from the SQL database. As we know SQL databases have many tables. There are many ways that you can join these tables, but as of know, I am only interested in one. I will use the following command to pull the table movie from the movies database. Once again, you can choose whatever database and tables you want. 
+
+![Figure](https://github.com/noryarroyo/my386blog/raw/main/assets/images/first_dataframe.png)
+
+This dataframe now contains around five thousand of the most popular films. I selected movie title, runtime, budget and revenue, because the rest of the fields didn't provide any helpful information. To proceed with the graphing portion of the tutorial, let's eliminate zero values and Nas and then create a column that tells each movie's profit. 
+
+![Figure](https://github.com/noryarroyo/my386blog/raw/main/assets/images/cleaned_dataframe.png)
+
+Now that we have the cleaned dataframe it'll be easier to proceed with the visualization portion of the tutorial. 
+
+### 3. Graphs!
+
+
+
+
+
+
+
+
+
+
 
 
 
