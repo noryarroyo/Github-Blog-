@@ -18,10 +18,21 @@ To perform this tutorial you will need to install:
 
 If needed: 
 
-[Install Jupyter Notebook](https://jupyter.org/install)
+[Install Jupyter Notebook](https://jupyter.org/install)  
+
 [Install MySQL](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/)
 
 ### 1. Set up a connector between SQL and Python 
+
+First, you will need the following packages: pandas, numpy, seaborn, matplotlib.pyplot and sqlalchemy. Your cell in Jupyter Notebook should look like the next (you can pick your aliases). 
+
+<img src="https://raw.githubusercontent.com/noryarroyo/my386blog/main/assets/images/package.jpg" alt="" style="width:400px;"/>
+
+There are many ways that you can connect SQL with Python. In this tutorial, we will be using SQLAlchemy and will create an engine that serves to connect to a local SQL database and pull the information to Python.  
+
+<img src="https://raw.githubusercontent.com/noryarroyo/my386blog/main/assets/images/engine.jpg" alt="" style="width:400px;"/>
+
+Where you should place your own username and password and your database of choice. I have a database called movies in mysql and that's what I'll use for the next few steps. 
 
 
 
