@@ -63,8 +63,11 @@ Graph:
 ![Figure](https://github.com/noryarroyo/my386blog/raw/main/assets/images/boxplot_graph.png)
 
 From our observations from the boxplot we can see that the average movie runtime is around 110 (1 hour and 40 minutes) and 75% of the movies are less than 130 
-(2 hours and 10 minutes), 
+(2 hours and 10 minutes), with 25% less than 95 minutes (1 hour and 35 minutes). Thinking about the movies that I typically watch these insights seem typical to me. 
 
+## Conclusion 
+
+There are many more things you can do with SQL and Python. But I hope that this small tutorial was able to show you just the surface of what is hopefully a very long journey into data science. Of course, practicing is the best way to learn, so grab your data and experiment with new packages, techniques and statistical tools. 
 
 
 
