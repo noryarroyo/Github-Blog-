@@ -48,7 +48,29 @@ This dataframe now contains around five thousand of the most popular films. I se
 
 Now that we have the cleaned dataframe it'll be easier to proceed with the visualization portion of the tutorial. 
 
-### 3. Graphs!
+### 3. Visualizing insights 
+
+There are many things I could choose to do with this portion of the tutorial, but for simplicity's sake let's do some very basic plots. To begin we will do a bar plot that tells us the top 5 most profitable movies. 
+
+![Figure](https://github.com/noryarroyo/my386blog/raw/main/assets/images/first_graph.png)
+
+Looking at the graph, we can tell that the most profitable movie of all time is Avatar and that its profit is in the billions. Now, looking at the rest of the top 5, we can notice that all these movies are part of franchises. This is an example of the insights we can draw with simple code and graphs. We shall proceed to look at a boxplot of the runtime. 
+
+Code: 
+![Figure](https://github.com/noryarroyo/my386blog/raw/main/assets/images/code_graph.png)
+
+Graph: 
+![Figure](https://github.com/noryarroyo/my386blog/raw/main/assets/images/boxplot_graph.png)
+
+From our observations from the boxplot we can see that the average movie runtime is around 110 (1 hour and 40 minutes) and 75% of the movies are less than 130 
+(2 hours and 10 minutes), 
+
+
+
+
+
+
+
 
 
 
