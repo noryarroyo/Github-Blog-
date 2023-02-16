@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Data Science Posts # Make a title for your blog
+title: Data Science Blog # Make a title for your blog
 email: noryarroyo5@gmail.com # Add your email 
 description: >- # this means to ignore newlines until "baseurl:"
- "Personal blog dedicated to Data Science Projects."
+ Personal blog dedicated to Data Science Projects.
 baseurl: "/my386blog" # keep this the same or change it to the name of the repository 
 url: "https://noryarroyo.github.io" #  change this to "https://<your-github-username>.github.io"
-image: /assets/images/image5.jpg
+image: /assets/images/image1.jpg
 author: Nory Arroyo Cruz 
 copyright: NAC # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
