@@ -32,7 +32,7 @@ As described in the two previous sections, the book combines topics from philoso
 
 ### Rating 
 
-My rating for the book is 3.5/5. A good read that teaches you a lot of new information, but not necessarily one that I would read again. 
+My rating for the book is 3.5/5. A good read that teaches you a lot of new information, but not necessarily one that I would read again.
 
 
 
