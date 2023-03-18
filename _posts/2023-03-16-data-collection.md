@@ -3,7 +3,7 @@ layout: post
 title:  "Top 300 Movies in IMDb"
 author: Nory Arroyo
 description: We all love movies and this dataset shows you the highest rated movies by users in IMDb. 
-image: /assets/images/movies.png
+image: /assets/images/movie.png
 ---
 
 # Introduction
