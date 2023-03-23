@@ -110,7 +110,7 @@ plt.show()
 ```
 Graph: 
 
-<img src="https://raw.githubusercontent.com/noryarroyo/my386blog/main/assets/images/boxplot_graph" alt="" style="width:400px;"/>
+<img src="https://raw.githubusercontent.com/noryarroyo/my386blog/main/assets/images/boxplot_graph.png" alt="" style="width:400px;"/>
 
 
 From our observations from the boxplot we can see that the average movie runtime is around 110 minutes (1 hour and 40 minutes) and 75% of the movies are less than 130 minutes
