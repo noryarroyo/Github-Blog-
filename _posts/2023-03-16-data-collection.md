@@ -96,7 +96,7 @@ Here's the completed dataset! All the 300 movies together.
 ```
 
 
-![Figure](https://raw.githubusercontent.com/esnt/my386blog/main/assets/images/df_complete.png)
+<img src="https://raw.githubusercontent.com/noryarroyo/my386blog/main/assets/images/df_complete.png" alt="" style="width:400px;"/>
 
 
 If you want to look at my completed code for this portion of the project you can access it at this [repository](https://github.com/noryarroyo/386-Data-Project-).
