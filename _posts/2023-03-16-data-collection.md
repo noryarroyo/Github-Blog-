@@ -92,9 +92,10 @@ top_movies = pd.concat([df_1, df_2, df_3], ignore_index=True)
 top_movies
 
 Here's the completed dataset! All the 300 movies together. 
+```
 
 ![Figure](https://raw.githubusercontent.com/esnt/my386blog/main/assets/images/df_complete.png)
-```
+
 
 # Conclusion 
 
