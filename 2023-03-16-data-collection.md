@@ -3,11 +3,7 @@ layout: post
 title:  "Top 300 Movies in IMDb"
 author: Nory Arroyo
 description: We all love movies and this dataset shows you the highest rated movies by users in IMDb. 
-<<<<<<< HEAD
 image: /assets/images/movies.png
-=======
-image: /assets/images/movie.png
->>>>>>> 7a34d2126e507585e86d510f47a7ed65a3d8fd0b
 ---
 
 # Introduction
@@ -97,11 +93,8 @@ top_movies
 
 Here's the completed dataset! All the 300 movies together. 
 
-```
-
-
 ![Figure](https://raw.githubusercontent.com/esnt/my386blog/main/assets/images/df_complete.png)
-
+```
 
 # Conclusion 
 
