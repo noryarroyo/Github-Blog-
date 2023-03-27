@@ -88,11 +88,11 @@ plt.title("Top 5 profitable movies")
 plt.xlabel('Movie title')
 plt.ylabel('Profit (in the billions)')
 plt.show()
-
 ```
 Graph: 
 
-![Figure](https://github.com/noryarroyo/my386blog/raw/main/assets/images/first_graph.png)
+<img src="https://raw.githubusercontent.com/noryarroyo/my386blog/main/assets/images/first_graph.png" alt="" style="width:400px;"/>
+
 
 Looking at the graph, we can tell that the most profitable movie of all time is Avatar and that its profit is in the billions. Now, looking at the rest of the top 5, we can notice that all these movies are part of franchises. This is an example of the insights we can draw with simple code and graphs. We shall proceed to look at a boxplot of the runtime. 
 
@@ -110,7 +110,8 @@ plt.show()
 ```
 Graph: 
 
-![Figure](https://github.com/noryarroyo/my386blog/raw/main/assets/images/boxplot_graph.png)
+<img src="https://raw.githubusercontent.com/noryarroyo/my386blog/main/assets/images/boxplot_graph.png" alt="" style="width:400px;"/>
+
 
 From our observations from the boxplot we can see that the average movie runtime is around 110 minutes (1 hour and 40 minutes) and 75% of the movies are less than 130 minutes
 (2 hours and 10 minutes), with 25% less than 95 minutes (1 hour and 35 minutes). Thinking about the movies that I typically watch this seems typical to me. 
