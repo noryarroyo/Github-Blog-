@@ -103,6 +103,8 @@ Here's the completed dataset! All the 300 movies together.
 ![Figure](https://raw.githubusercontent.com/esnt/my386blog/main/assets/images/df_complete.png)
 
 
+If you want to look at my completed code for this portion of the project you can access it at this [repository](https://github.com/noryarroyo/386-Data-Project-).
+
 # Conclusion 
 
 In this post, I showed how to extract the data from the IMDb database, but you can use this same method to gather other type of information that interests you. On the EDA, I will find out the reason why these movies are so popular. 
