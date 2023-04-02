@@ -90,7 +90,7 @@ Drama is the genre with the most amount of movies, and overwhelmingly the most p
 Last, we can check a correlation matrix to see if we missed any insights. It could also serve as a summary of all the things we looked above.
 
 
-<img src="https://raw.githubusercontent.com/noryarroyo/my386blog/main/assets/images/eda_1.png" alt="" style="width:500px;"/>
+<img src="https://raw.githubusercontent.com/noryarroyo/my386blog/main/assets/images/eda_2.png" alt="" style="width:500px;"/>
 
 The strongest correlation in the data is between Votes and the IMDb Score, with the weakest correlation between Metacritic Score and Votes. One interesting correlation that I feel is interesting to take a closer look at is Metacritic Score and Year. 
 
