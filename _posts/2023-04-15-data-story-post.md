@@ -15,7 +15,7 @@ As a fan of movies, at the beginning of the project, I wanted to analyze what ma
 
 
 
-<iframe src="https://raw.githubusercontent.com/noryarroyo/my386blog/main/assets/images/data_story.html"></iframe>
+<iframe src="https://raw.githubusercontent.com/noryarroyo/my386blog/main/assets/images/plotly.html"></iframe>
 
 The data story tells us that an action movie will likely enter the database. Although there are more votes for action movies, the drama category has the highest-rated movies overall. It is important to notice that the drama category usually blends in with other genres, which might explain why. These results make a lot of sense. Action movies are the big blockbusters that drive people to the movie theaters so that more people would watch them, therefore, get more votes. In addition, drama movies excel for their intricate plots, which could explain the high ratings. 
 
