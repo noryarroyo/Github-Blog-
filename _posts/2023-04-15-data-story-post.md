@@ -13,7 +13,7 @@ As a fan of movies, at the beginning of the project, I wanted to analyze what ma
 
 ## The Data Story 
 
-<iframe src="https://githubusercontent.com/noryarroyo/my386blog/main/assets/images/the_graph.html" width="900" height="800" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://raw.githubusercontent.com/noryarroyo/my386blog/main/assets/images/the_graph.html" width="900" height="800" frameborder="0" scrolling="no"></iframe>
 
 
 
