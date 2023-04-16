@@ -3,7 +3,7 @@ layout: post
 title:  "Data Story on the Movies Dataset"
 author: Nory Arroyo
 description: "We reach the conclusion on the IMDb database analysis "
-image: /assets/images/image3.png
+image: /assets/images/last_image.png
 ---
 
 ## Our Data So Far 
