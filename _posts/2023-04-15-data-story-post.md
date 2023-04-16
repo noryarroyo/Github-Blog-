@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Python as a tool to visualize SQL Data"
+title:  "Data Story on the Movies Dataset"
 author: Nory Arroyo
-description: "Instructions on how to utilize Python to look at SQL Data "
+description: "We reach the conclusion on the IMDb database analysis "
 image: /assets/images/image3.png
 ---
 
