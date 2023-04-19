@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Tutorials, reviews and tips for programming languages such as Python, SQL, R among others. 
+My name is Nory Arroyo; I am a statistics major at Brigham Young University, graduating this spring. As a statistics major, I learned various programming languages, such as SQL, R, and Python, and visualization tools like Tableau. In this blog, you will find various projects that I've worked on. The primary programming language is Python, but I look forward to updating with other programming languages. 
 
